@@ -1,0 +1,19 @@
+{
+    "blogPosts": [
+        {
+            "title": "Чоловікам",
+            "content": "ВЗУТТЯ",
+            "brand": "REEBOK",
+            "model": "SDGSDFGF",
+            "price": 332,
+            "sale": false,
+            "imgSrc": "https://firebasestorage.googleapis.com/v0/b/final-59c5a.appspot.com/o/empty.jpg?alt=media&token=e3fb1551-06f2-4b6e-9571-7bc66db9c3db",
+            "size": "clothSizes",
+            "addedToCart": false,
+            "count": 0,
+            "date": 1664094873814,
+            "id": 46
+          }
+    ]
+}
+  
